@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|d:\\my work\\fiverr project\\local\\vanshika sharma\\project 6\\views\\actor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|solutionrelative:views\\actor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|d:\\my work\\fiverr project\\local\\vanshika sharma\\project 6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arpit Santoki\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|d:\\my work\\fiverr project\\local\\vanshika sharma\\project 6\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|d:\\my work\\fiverr project\\local\\vanshika sharma\\project 6\\controllers\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|solutionrelative:controllers\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|d:\\my work\\fiverr project\\local\\vanshika sharma\\project 6\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|solutionrelative:controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|d:\\my work\\fiverr project\\local\\vanshika sharma\\project 6\\viewmodel\\actoraddformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|solutionrelative:viewmodel\\actoraddformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|d:\\my work\\fiverr project\\local\\vanshika sharma\\project 6\\viewmodel\\actoraddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF425010-F343-4F5B-9437-223391E25B31}|VS2247A5.csproj|solutionrelative:viewmodel\\actoraddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\VIEWS\\SHARED\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VIEWS\\SHARED\\_Layout.cshtml",
+              "ToolTip": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\VIEWS\\SHARED\\_Layout.cshtml",
+              "RelativeToolTip": "VIEWS\\SHARED\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:02:14.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\CONTROLLERS\\Manager.cs",
+              "RelativeDocumentMoniker": "CONTROLLERS\\Manager.cs",
+              "ToolTip": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\CONTROLLERS\\Manager.cs",
+              "RelativeToolTip": "CONTROLLERS\\Manager.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAswAEBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:56:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\Arpit Santoki\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs",
+              "ToolTip": "C:\\Users\\Arpit Santoki\\AppData\\Local\\Temp\\.vsdbgsrc\\4c774b4b794a5f5b2421e30e61440fc1e2757b14e36ba0321ebad2feffdf31aa\\ModelMetadata.cs [Read Only]",
+              "ViewState": "AgIAACgBAAAAAAAAAAAMwDwBAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:54:35.41Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\CONTROLLERS\\AccountController.cs",
+              "RelativeDocumentMoniker": "CONTROLLERS\\AccountController.cs",
+              "ToolTip": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\CONTROLLERS\\AccountController.cs",
+              "RelativeToolTip": "CONTROLLERS\\AccountController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAMwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:50:02.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\CONTROLLERS\\ActorController.cs",
+              "RelativeDocumentMoniker": "CONTROLLERS\\ActorController.cs",
+              "ToolTip": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\CONTROLLERS\\ActorController.cs",
+              "RelativeToolTip": "CONTROLLERS\\ActorController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:50:13.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\VIEWS\\Actor\\Create.cshtml",
+              "RelativeDocumentMoniker": "VIEWS\\Actor\\Create.cshtml",
+              "ToolTip": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\VIEWS\\Actor\\Create.cshtml",
+              "RelativeToolTip": "VIEWS\\Actor\\Create.cshtml",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAAOAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:45:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActorAddViewModel.cs",
+              "DocumentMoniker": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\ViewModel\\ActorAddViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ActorAddViewModel.cs",
+              "ToolTip": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\ViewModel\\ActorAddViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ActorAddViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:35:37.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActorAddFormViewModel.cs",
+              "DocumentMoniker": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\ViewModel\\ActorAddFormViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ActorAddFormViewModel.cs",
+              "ToolTip": "D:\\My Work\\Fiverr Project\\Local\\Vanshika Sharma\\Project 6\\ViewModel\\ActorAddFormViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ActorAddFormViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:35:06.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
